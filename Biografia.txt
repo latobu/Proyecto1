@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+Hola mi nombre es Laura
+Tengo 26 
+Vivo en bogota con mi mama, mocca y tinto
+Me gusta el cafe
+Laura adora a mateo con todo su corazon y espera que el la cuide mucho
+Ojala estuviera con ella hoy mucho muchi lalalala
+Pero la dejo en
+bogota
+muajaja
+jajaja
+hoy es agosto de 2021
+=======
+Hola mi nombre es Laura
+Tengo 26 
+Vivo en bogota con mi mama, mocca y tinto
+Me gusta el cafe
+Laura adora a mateo con todo su corazon y espera que el la cuide mucho
+Ojala estuviera con ella hoy mucho muchi lalalala
+Pero la dejo en
+bogota
+muajaja
+jajaja
+hoy es agosto de 2021
+>>>>>>> bf2807325b6a6cf6efad20f619589d5f4153a844
